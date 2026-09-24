@@ -40,10 +40,9 @@ The raw dataset is available in the `Raw_Dataset` folder.
 
 ##  Tools & Technologies
 
-- Microsoft Excel
-- Data Visualization
-- Dashboard Development
-- GitHub
+- Microsoft Excel – Data Cleaning and Preparation
+- Looker Studio – Data Visualization and Dashboard Development
+- GitHub – Project Documentation and Version Control
 
 ---
 
@@ -124,15 +123,17 @@ The project focuses on the following areas:
 ##  Project Workflow
 
 Raw Dataset
-↓
-Data Cleaning
-↓
+     ↓
+Data Cleaning & Preparation
+     ↓
+Microsoft Excel
+     ↓
 Cleaned Dataset
-↓
-Data Analysis
-↓
-Dashboard Development
-↓
+     ↓
+Looker Studio
+     ↓
+Interactive Dashboard
+     ↓
 Insights
 
 ---
