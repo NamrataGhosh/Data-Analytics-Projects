@@ -63,33 +63,44 @@ The cleaned dataset is available in the `Cleaned_Dataset` folder.
 
 ---
 
-##  Dashboard
+##  Dashboards
 
-An interactive Uber Trip Analysis dashboard was created to present the analysis in a simple and visual format.
+The project includes two interactive dashboards developed using Looker Studio.
 
-The dashboard contains filters that allow users to explore the data based on:
+### 1. City and Fare Analysis
 
-- City
-- Trip/Booking Status
-- Payment Method
+This dashboard focuses on trip volume, fare amounts, average distance, and city-wise performance.
 
----
+It includes:
 
-##  Dashboard Pages
+- Total Trips
+- Total Fare
+- Average Distance
+- Average Fare
+- Trip Count by City
+- Average Fare by City
+- City-wise Fare Distribution
+- Average Distance vs Average Fare
+- City-wise Fare Map
 
-### 1. Overview
+The dashboard helps compare trip activity, distance, and fare patterns across different cities.
 
-The Overview dashboard provides a high-level summary of the Uber trip data.
+### 2. Status and Payment Analysis
 
-It presents important metrics and visualizations related to overall trip activity, booking status, cities, and payment methods.
+This dashboard focuses on booking/trip status and payment methods.
 
-This page helps users quickly understand the overall performance and major patterns in the dataset.
+It includes:
 
-### 2. City-wise Trip Analysis
+- Total Trips
+- Completed Trips
+- Cancelled Trips
+- Total Fare
+- Status Count by City
+- Status Distribution
+- Status by City
+- Payment Method by City
 
-The City-wise Trip Analysis dashboard focuses on comparing trip activity across different cities.
-
-It helps identify differences in trip volume and booking patterns between cities and provides a more detailed view of city-level performance.
+The dashboard helps analyze completed, cancelled, and no-show trips and understand payment method usage across different cities.
 
 ---
 
