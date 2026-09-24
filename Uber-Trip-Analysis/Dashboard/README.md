@@ -6,13 +6,13 @@ The dashboard provides an interactive view of Uber trip data and helps analyze t
 
 ##  Dashboard Pages
 
-### 1. Overview
+### 1. City and Fare Analysis
 
 The Overview dashboard provides a summary of the Uber trip data.
 
 It presents key metrics and visualizations related to overall trips, booking status, cities, and payment methods. It helps users get a quick understanding of the overall trip and booking patterns.
 
-### 2. City-wise Trip Analysis
+### 2. Status and Payment Analysis
 
 The City-wise Trip Analysis dashboard focuses on comparing Uber trip activity across different cities.
 
