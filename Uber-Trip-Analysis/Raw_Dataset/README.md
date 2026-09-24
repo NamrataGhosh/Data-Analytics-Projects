@@ -2,6 +2,6 @@
 
 This folder contains the original Uber trip dataset used for the project.
 
-The raw dataset represents the data before any cleaning or transformation. It serves as the starting point for the Uber Trip Analysis project.
+The raw dataset was used as the starting point for the data cleaning and analysis process.
 
-The dataset was used to analyze trip patterns, booking status, city-wise activity, payment methods, and other trip-related information.
+The dataset contains information related to Uber trips, including city, booking status, payment method, and other trip-related attributes.
