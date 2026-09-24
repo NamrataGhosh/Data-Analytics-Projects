@@ -233,7 +233,7 @@ The project combines data preparation, exploratory analysis, visualization, and 
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Namrata Ghosh**
 
